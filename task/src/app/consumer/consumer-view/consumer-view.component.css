@@ -1,0 +1,23 @@
+mat-paginator{
+    margin: auto;
+    width: 500px;
+    margin-top: 50px;
+}
+
+
+table{
+    /* width: 200px; */
+    min-width: 800px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+#edit{
+    background-color: rgb(102, 88, 206);
+    color: white;
+    /* display: block; */
+    
+
+    
+}
